@@ -41,7 +41,7 @@ The customer segmentation analysis can help identify the most valuable customers
 
 ## Work in Progress
 
-This analysis is a work in progress, and we are continuously refining our methodology and exploring new ways to extract insights from the customer data. We welcome any feedback or suggestions for improving the analysis. 
+This analysis is a work in progress, and I am continuously refining the methodology and exploring new ways to extract insights from the customer data. I welcome any feedback or suggestions for improving the analysis. 
 
 ## Conclusion
 
